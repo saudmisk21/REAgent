@@ -12,7 +12,7 @@ import sys
 WEBHOOK_URL = "https://your-webhook-here"  # Replace with your working webhook
 VERSION_URL = "https://raw.githubusercontent.com/saudmisk21/REAgent/refs/heads/main/version"
 KEYS_URL = "https://raw.githubusercontent.com/saudmisk21/REAgent/refs/heads/main/keys"
-APP_VERSION = "1.0.0"
+APP_VERSION = "1.0.1"
 CHECK_INTERVAL = 60  # seconds between key rechecks
 # -------------------------------
 
