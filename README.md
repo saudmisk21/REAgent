@@ -1,2 +1,2 @@
 # REAgent
-jamf is annoying
+i discontinued this: its not right to mess with MDM services
